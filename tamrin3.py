@@ -1,0 +1,9 @@
+num1="123.456"
+num2="11"
+num1=float(num1)
+num2=int(num2)
+div=num1/num2
+print(round(div,2))
+div=int(num1/num2)
+baghimande=num1%num2
+print(div,baghimande)
